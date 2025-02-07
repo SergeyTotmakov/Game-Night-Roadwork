@@ -12,11 +12,8 @@ MOVEMENT KEYS:
 "a" or "4" - left
 "d" or "6" - right
 
-IMPORTANT:
-For the correct operation of the game, the folder with the program must contain the RECORD.txt file. If this file is not available, you need to manually create it and write 1 character in it - "0".
+
 If you want to end the game early, you should do it through a special button.
 
-SUPPORT:
-chwundinecreator@gmail.com
 
 Game development completed 22.11.2024
